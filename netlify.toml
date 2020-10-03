@@ -1,0 +1,8 @@
+[build]
+    functions = "functions"
+
+[[redirects]]
+  from = "/webhook"
+  to = "/.netlify/functions/gasCall/gasCall"
+  status = 200
+  force = true
