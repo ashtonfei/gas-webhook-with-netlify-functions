@@ -1,4 +1,4 @@
-# gas-webhook-with-netlify-functions
+# Google Apps Script Webhook with Netlify Functions
 
 For some reason, "script.google.com" can't be used as an valid webhook URL because of the ContentService API. This project is using the Netlify functions to build a valid webhook URL and post the data to the invalid "script.google.com" url.
 
