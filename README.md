@@ -4,7 +4,7 @@ For some reason, "script.google.com" can't be used as an valid webhook URL becau
 
 ### Webhook
 
-https://{{yourNetlifySitenameUrl}}/webhook This will send post request via the doPost method in the Google Apps Script project.
+[https://{{yourNetlifySitenameUrl}}/webhook] This will send post request via the doPost method in the Google Apps Script project.
 
 ### Netlify environment variables
 
